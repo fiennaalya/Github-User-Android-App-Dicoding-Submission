@@ -18,7 +18,11 @@
 ## Implementations and Improvements
 
 ### 📌 Splash Screen
-Before the home page appear, the application features a Splash Screen that shows for a duration of 3 seconds.
+<p>Before the home page appear, the application features a Splash Screen that shows for a duration of 3 seconds.</p>
+<div align="center">
+  <img height="500" alt="image" src="https://github.com/fiennaalya/Github-User-Android-App-Dicoding-Submission/assets/99575596/3d5be0ba-3043-40ca-91cc-4b74e3338a06">
+</div>
+
 
 ### 📌 Home Page 
 The home page presenting a list of GitHub users. This list is fetched from the GitHub REST API using LoopJ and parsed as JSON data. Each GitHub user in the list is represented by their image, name, and username. Users have the capability to search for any GitHub user's username they desire. Once a username is entered, the corresponding user GitHub’s data will be displayed on the screen. Additionally, users can access more detailed information about a specific user by selecting them from the list.
@@ -28,3 +32,5 @@ Detail user page provides users with comprehensive information about a specific 
 
 ## Results
 #### ⭐⭐⭐ 3/5 stars achieved!
+<img width="323" alt="image" src="https://github.com/fiennaalya/Github-User-Android-App-Dicoding-Submission/assets/99575596/49dce4c1-13af-485f-bbaf-bd5d73768284">
+<img width="275" alt="image" src="https://github.com/fiennaalya/Github-User-Android-App-Dicoding-Submission/assets/99575596/4096a125-0da0-48ea-8f61-e69f7c99ef2e">
