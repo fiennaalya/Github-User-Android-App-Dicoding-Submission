@@ -1,5 +1,5 @@
 # Dicoding First Submission : Creating a Github User Android Application
-**GitHub Search App** is the first assignment of dicoding.com [**Belajar Fundamental Aplikasi Android**](https://www.dicoding.com/academies/14) from the Android developer learning path. This application implements the WebAPI Networking using LoopJ and Parsing JSON. The application displays the list of the Github users and search bar on the top of the application, once the user account was pressed, a user page will shown with the information of username, name, profile picture, company, country, the total and the list of the following and followers.
+**GitHub Search App** is the first assignment of dicoding.com [**Belajar Fundamental Aplikasi Android**](https://www.dicoding.com/academies/14) from the Android developer learning path. This application implements the WebAPI Networking using LoopJ and Parsing JSON. The application displays the list of Github users and a search bar on the top of the application. Once we press the user account, a user page will show the information of username, name, profile picture, company, country, the total, and the list of the following and followers.
 
 <div align="center">
 
