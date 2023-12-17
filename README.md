@@ -14,3 +14,17 @@
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </p>
 </div>
+
+## Implementations and Improvements
+
+### 📌 Splash Screen
+Before the home page appear, the application features a Splash Screen that shows for a duration of 3 seconds.
+
+### 📌 Home Page 
+The home page presenting a list of GitHub users. This list is fetched from the GitHub REST API using LoopJ and parsed as JSON data. Each GitHub user in the list is represented by their image, name, and username. Users have the capability to search for any GitHub user's username they desire. Once a username is entered, the corresponding user GitHub’s data will be displayed on the screen. Additionally, users can access more detailed information about a specific user by selecting them from the list.
+
+### 📌 Detail User Page 
+Detail user page provides users with comprehensive information about a specific GitHub user, such as the number of followers, number of people they are following, company affiliation, and location. Furthermore, the Detail Page also displays the list of users the selected user is following and their followers, utilizing a RecyclerView to present this information and fetching it from the GitHub API.
+
+## Results
+#### ⭐⭐⭐ 3/5 stars achieved!
