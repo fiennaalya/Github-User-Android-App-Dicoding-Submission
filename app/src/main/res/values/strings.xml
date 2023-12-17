@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SubmissionDicoding1</string>
+    <string name="username">Masukan Username</string>
+    <string name="username_adapter">Username</string>
+    <string name="nama_adapter">Account Name</string>
+    <string name="kantor_adapter">Kantor</string>
+    <string name="asal_adapter">Asal </string>
+
+    <string name="username_detail"> "@"%s</string>
+    <string name="nama_detail">Account Name</string>
+    <string name="repository_detail">Repository : %s </string>
+    <string name="kantor_detail">Company : %s </string>
+    <string name="asal_detail">Location : %s </string>
+    <string name="followers_detail">Followers : %s </string>
+    <string name="following_detail">Following : %s </string>
+
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="listfollowers">List Followers :</string>
+    <string name="dark_mode">Ganti Mode</string>
+
+</resources>
